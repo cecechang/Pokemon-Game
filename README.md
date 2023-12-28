@@ -19,6 +19,4 @@ Dependencies:
 
 This project requires Python 3 to be installed on your machine.
 
-Contributing:
 
-If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Please ensure that any changes you make are well-documented and tested.
