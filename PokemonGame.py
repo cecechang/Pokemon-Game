@@ -1,4 +1,4 @@
-import requests  # This library makes HTTP requests.
+from pip._vendor import requests # This library makes HTTP requests
 import random  # This library is to generate random numbers. Function show line 44
 import time  # This module allows you to work with time related functions. Shown line 14
 import sys  # provides various functions & variables that are used to manipulate different parts of the Python runtime
