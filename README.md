@@ -39,7 +39,6 @@ Welcome to the Pokemon Battle Game, a project developed during my participation 
 ```http
   GET https://pokeapi.co/api/v2/pokemon/{name_or_id}/
 
-
 ```
 
 | Parameter | Type     | Description                       |
