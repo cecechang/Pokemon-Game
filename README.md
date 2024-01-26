@@ -18,15 +18,12 @@ Welcome to the Pokemon Battle Game, a project developed during my participation 
 
 
 
-
-
-
 ## Pokemon API Reference
 
 #### Get Random Pokemon
 
 ```http
-  GET https://pokeapi.co/api/v2/pokemon/{random_id}/
+  https://pokeapi.co/api/v2/pokemon/{random_id}/
 
 ```
 
@@ -37,7 +34,7 @@ Welcome to the Pokemon Battle Game, a project developed during my participation 
 #### Get Pokemon by Name or ID
 
 ```http
-  GET https://pokeapi.co/api/v2/pokemon/{name_or_id}/
+  https://pokeapi.co/api/v2/pokemon/{name_or_id}/
 
 ```
 
